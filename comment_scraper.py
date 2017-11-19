@@ -65,4 +65,4 @@ for item in items:
 # close the browser
 driver.close()
 
-print("Done")
+print("Done!")
